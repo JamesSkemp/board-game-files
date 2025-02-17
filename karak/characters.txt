@@ -1,0 +1,54 @@
+## Karak
+Argentus, the Wizard
+Magical Affinity	Magic bolts aren't discarded during combat, unless cursed.
+Astral Walking		Can move through walls, but only to discovered tiles.
+
+Horan, the Warrior
+Double Attack		Can reroll the first roll of the dice, but must keep the second roll.
+Reincarntation		When losing last HP, teleports to any Healing Fountain, regains all HP, and ends turn.
+
+Lord Xanros, the Warlock
+Sacrifice		Once per combat, can sacrifice one HP to gain +1 strength, before or after rolling. If sacrificing last HP, falls unconscious after combat.
+Magic Swap		Use four moves to swap swap positions with any other character. Can still use interact with the tile where he ends his turn.
+
+Aderyn, the Thief
+Backstab		During combat, win any ties.
+Stealth			When entering a tile with a monster, can fight the monster or continue moving.
+
+Victorius, the Swordsman
+Combat Training		During combat, 1s can always be rerolled for a better result.
+Unstoppable		During combat, if at least one 6 is rolled, he continues his turn, even if the result is a tie or loss.
+
+Taia, the Oracle
+Farseeing		If the first move of her turn is combat, she gains +1 to strength.
+Fateweaver		Anytime she draws a token from the bag, draw two tokens and pick which one to place and which to put back into the bag.
+
+## Regent
+Valduk, the Barbarian
+Berserk			During combat, if he has 3 or 4 HP, +1 to strength. If he has 1 or 2 HP, +2 to strength. When healing, choose how many HP to heal.
+Perseverance		After combat, if he defeats a monster and does not take the drop, he may keep moving.
+
+Baron Markul, the Battle Mage
+Sword Master		During combat, Swords have 3 strength instead of 2.
+Blitz Attack		Use four moves to teleport to any tile with a monster. After combat, if he lost, he can choose which which direction to retreat to.
+
+Hannah, the Acrobat
+Throwing Daggers	Daggers can be placed into spell slots, each adds +1 strength in combat, and are not discarded after combat. When cursed, spell slot daggers cannot be used during combat, nor can more daggers be put into the spell slots.
+Sprint			Use four moves to move up to eight tiles, but she cannot discover new tiles.
+
+Lady Lorraine, the Ranger
+Bear Attack		During combat, 1s count as 6s.
+Eavesdropping		Anytime before moving into an undiscovered tile, she may instead spend one move to place a tile, draw a token if needed, and stay on her current tile. If the battle arena is discovered, it should be flipped upside down, and will be flipped/activated when moved into.
+
+## Sidhar, Kirima, Elspeth
+Doctor Sidhar, the Alchemist
+Skin of Steel		After combat, does not lose HP unless he lost by 3 or more.
+Transformation		Each time he draws a token from the bag, he may spend 1 HP to set it aside and draw a new token. All set aside tokens are put into the bag when he chooses to stop. If he spends his last HP he places the token, falls unconscious, and ends his turn.
+
+Kirima, the Beast Hunter
+Protector		Spend one move to teleport to any tile with a hero who doesn't have full health. That hero heals 1 HP. Unconscious heroes healed this way don't lose their next turn.
+Ambush			During combat, if attacking a monster that was not revealed this turn, she gains +1 to her strength.
+
+Elspeth, Warrior Princess
+Dual Wielding		Once during each combat, she can reroll one of her dice.
+Tactical Reposition	When moving into a tile with a monster (even if just revealed), she may lose 1 HP to move past the monster into an adjacent tile, without fighting it.
